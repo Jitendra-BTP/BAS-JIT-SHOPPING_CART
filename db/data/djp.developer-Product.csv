@@ -1,0 +1,124 @@
+ProductId;Category;Name;ShortDescription;SupplierName;Weight;WeightUnit;Price;Status;CurrencyCode;DimensionWidth;DimensionDepth;DimensionHeight;DimensionUnit;PictureUrl
+HT-1000;LT;Notebook Basic 15;Notebook Basic 15 with 2,80 GHz quad core, 15" LCD, 4 GB DDR3 RAM, 500 GB Hard Disc, Windows 8 Pro;Very Best Screens;4.2;KG;956;A;EUR;30;18;3;cm;sap/ui/demo/mock/images/HT-1000.jpg
+HT-1001;LT;Notebook Basic 17;Notebook Basic 17 with 2,80 GHz quad core, 17" LCD, 4 GB DDR3 RAM, 500 GB Hard Disc, Windows 8 Pro;Very Best Screens;4.5;KG;1249;A;EUR;29;17;3.1;cm;sap/ui/demo/mock/images/HT-1001.jpg
+HT-1002;LT;Notebook Basic 18;Notebook Basic 18 with 2,80 GHz quad core, 18" LCD, 8 GB DDR3 RAM, 1000 GB Hard Disc, Windows 8 Pro;Very Best Screens;4.2;KG;1570;A;EUR;28;19;2.5;cm;sap/ui/demo/mock/images/HT-1002.jpg
+HT-1003;LT;Notebook Basic 19;Notebook Basic 19 with 2,80 GHz quad core, 19" LCD, 8 GB DDR3 RAM, 1000 GB Hard Disc, Windows 8 Pro;Smartcards;4.2;KG;1650;A;EUR;32;21;4;cm;sap/ui/demo/mock/images/HT-1003.jpg
+HT-1007;AC;ITelO Vault;Digital Organizer with State-of-the-Art Storage Encryption;Technocom;0.2;KG;299;D;EUR;32;22;3;cm;sap/ui/demo/mock/images/HT-1007.jpg
+HT-1010;AC;Notebook Professional 15;Notebook Professional 15 with 2,80 GHz quad core, 15" Multitouch LCD, 8 GB DDR3 RAM, 500 GB SSD - DVD-Writer (DVD-R/+R/-RW/-RAM),Windows 8 Pro;Very Best Screens;4.3;KG;1999;A;EUR;33;20;3;cm;sap/ui/demo/mock/images/HT-1010.jpg
+HT-1011;LT;Notebook Professional 17;Notebook Professional 17 with 2,80 GHz quad core, 17" Multitouch LCD, 8 GB DDR3 RAM, 500 GB SSD - DVD-Writer (DVD-R/+R/-RW/-RAM),Windows 8 Pro;Very Best Screens;4.1;KG;2299;O;EUR;33;23;2;cm;sap/ui/demo/mock/images/HT-1011.jpg
+HT-1020;AC;ITelO Vault Net;Digital Organizer with State-of-the-Art Encryption for Storage and Network Communications;Technocom;0.16;KG;459;O;EUR;10;1.8;17;cm;sap/ui/demo/mock/images/HT-1020.jpg
+HT-1021;AC;ITelO Vault SAT;Digital Organizer with State-of-the-Art Encryption for Storage and Secure Stellite Link;Technocom;0.18;KG;149;D;EUR;11;1.7;18;cm;sap/ui/demo/mock/images/HT-1021.jpg
+HT-1022;AC;Comfort Easy;32 GB Digital Assistant with high-resolution color screen;Technocom;0.2;KG;1679;A;EUR;84;1.5;14;cm;sap/ui/demo/mock/images/HT-1022.jpg
+HT-1023;AC;Comfort Senior;64 GB Digital Assistant with high-resolution color screen and synthesized voice output;Technocom;0.8;KG;512;A;EUR;80;1.6;13;cm;sap/ui/demo/mock/images/HT-1023.jpg
+HT-1030;FT;Ergo Screen E-I;Optimum Hi-Resolution max. 1920 x 1080 @ 85Hz, Dot Pitch: 0.27mm;Very Best Screens;21;KG;230;D;EUR;37;12;36;cm;sap/ui/demo/mock/images/HT-1030.jpg
+HT-1031;FT;Ergo Screen E-II;Optimum Hi-Resolution max. 1920 x 1200 @ 85Hz, Dot Pitch: 0.26mm;Very Best Screens;21;KG;285;O;EUR;40.8;19;43;cm;sap/ui/demo/mock/images/HT-1031.jpg
+HT-1032;FT;Ergo Screen E-III;Optimum Hi-Resolution max. 2560 x 1440 @ 85Hz, Dot Pitch: 0.25mm;Very Best Screens;21;KG;345;A;EUR;40.8;19;43;cm;sap/ui/demo/mock/images/HT-1032.jpg
+HT-1035;FT;Flat Basic;Optimum Hi-Resolution max. 1600 x 1200 @ 85Hz, Dot Pitch: 0.24mm;Very Best Screens;14;KG;399;A;EUR;39;20;41;cm;sap/ui/demo/mock/images/HT-1035.jpg
+HT-1036;FT;Flat Future;Optimum Hi-Resolution max. 2048 x 1080 @ 85Hz, Dot Pitch: 0.26mm;Very Best Screens;15;KG;430;O;EUR;45;26;46;cm;sap/ui/demo/mock/images/HT-1036.jpg
+HT-1037;FT;Flat XL;Optimum Hi-Resolution max. 2016 x 1512 @ 85Hz, Dot Pitch: 0.24mm;Very Best Screens;17;KG;1230;A;EUR;54.5;22.1;39.1;cm;sap/ui/demo/mock/images/HT-1037.jpg
+HT-1040;PR;Laser Professional Eco;Print 2400 dpi image quality color documents at speeds of up to 32 ppm (color) or 36 ppm (monochrome), letter/A4. Powerful 500 MHz processor, 512MB of memory;Alpha Printers;32;KG;830;A;EUR;51;46;30;cm;sap/ui/demo/mock/images/HT-1040.jpg
+HT-1041;PR;Laser Basic;Up to 22 ppm color or 24 ppm monochrome A4/letter, powerful 500 MHz processor and 128MB of memory;Alpha Printers;23;KG;490;A;EUR;48;42;26;cm;sap/ui/demo/mock/images/HT-1041.jpg
+HT-1042;PR;Laser Allround;Print up to 25 ppm letter and 24 ppm A4 color or monochrome, with a first-page-out-time of less than 13 seconds for monochrome and less than 15 seconds for color;Alpha Printers;17;KG;349;A;EUR;53;50;65;cm;sap/ui/demo/mock/images/HT-1042.jpg
+HT-1050;PR;Ultra Jet Super Color;4800 dpi x 1200 dpi - up to 35 ppm (mono) / up to 34 ppm (color) - capacity: 250 sheets - Hi-Speed USB, Ethernet;Alpha Printers;3;KG;139;A;EUR;41;41;28;cm;sap/ui/demo/mock/images/HT-1050.jpg
+HT-1051;PR;Ultra Jet Mobile;1000 dpi x 1000 dpi - up to 35 ppm (mono) / up to 34 ppm (color) - capacity: 250 sheets - Hi-Speed USB - excellent dimensions for the small office;Printer for All;1.9;KG;99;A;EUR;46;32;25;cm;sap/ui/demo/mock/images/HT-1051.jpg
+HT-1052;PR;Ultra Jet Super Highspeed;4800 dpi x 1200 dpi - up to 35 ppm (mono) / up to 34 ppm (color) - capacity: 250 sheets - Hi-Speed USB2.0, Ethernet;Printer for All;18;KG;170;A;EUR;41;41;28;cm;sap/ui/demo/mock/images/HT-1052.jpg
+HT-1055;PR;Multi Print;1000 dpi x 1000 dpi - up to 16 ppm (mono) / up to 15 ppm (color)- capacity 80 sheets - scanner (216 x 297 mm, 1200dpi x 2400dpi);Printer for All;6.3;KG;99;A;EUR;55;45;29;cm;sap/ui/demo/mock/images/HT-1055.jpg
+HT-1056;PR;Multi Color;1200 dpi x 1200 dpi - up to 25 ppm (mono) / up to 24 ppm (color)- capacity 80 sheets - scanner (216 x 297 mm, 2400dpi x 4800dpi, high resolution);Printer for All;4.3;KG;119;A;EUR;51;41.3;22;cm;sap/ui/demo/mock/images/HT-1056.jpg
+HT-1060;MI;Cordless Mouse;Cordless Optical USB MI, Laptop, Color: Black, Plug&Play;Oxynum;0.09;KG;9;O;EUR;6;14.5;3.5;cm;sap/ui/demo/mock/images/HT-1060.jpg
+HT-1061;MI;Speed Mouse;Optical USB, PS/2 Mouse, Color: Blue, 3-button-functionality (incl. Scroll wheel);Oxynum;0.09;KG;7;D;EUR;7;15;3.1;cm;sap/ui/demo/mock/images/HT-1061.jpg
+HT-1062;MI;Track Mouse;Optical USB Mouse, Color: Red, 5-button-functionality(incl. Scroll wheel), Plug&Play;Oxynum;0.03;KG;11;O;EUR;3;7;4;cm;sap/ui/demo/mock/images/HT-1062.jpg
+HT-1063;KB;Ergonomic Keyboard;Ergonomic USB Keyboard for Desktop, Plug&Play;Oxynum;2.1;KG;14;D;EUR;50;21;3.5;cm;sap/ui/demo/mock/images/HT-1063.jpg
+HT-1064;KB;Internet Keyboard;Corded Keyboard with special keys for Internet Usability, USB;Oxynum;1.8;KG;16;A;EUR;52;25;3;cm;sap/ui/demo/mock/images/HT-1064.jpg
+HT-1065;KB;Media Keyboard;Corded Ergonomic Keyboard with special keys for Media Usability, USB;Oxynum;2.3;KG;26;A;EUR;51.4;23;4;cm;sap/ui/demo/mock/images/HT-1065.jpg
+HT-1066;MI;Mousepad;Nice mouse pad with ITelO Logo;Oxynum;80;G;6.99;A;EUR;15;6;0.2;cm;sap/ui/demo/mock/images/HT-1066.jpg
+HT-1067;MI;Ergo Mousepad;Ergonomic mouse pad with ITelO Logo;Oxynum;80;G;8.99;O;EUR;15;6;0.2;cm;sap/ui/demo/mock/images/HT-1067.jpg
+HT-1068;MI;Designer Mousepad;ITelO Mousepad Special Edition;Fasttech;90;G;12.99;A;EUR;24;24;0.6;cm;sap/ui/demo/mock/images/HT-1068.jpg
+HT-1069;CSA;Universal card reader;Universal card reader;Fasttech;45;G;14;O;EUR;6;6;3;cm;sap/ui/demo/mock/images/HT-1069.jpg
+HT-1070;GC;Proctra X;Proctra X: PCI-E GDDR5 3072MB;Ultrasonic United;0.255;KG;70.9;A;EUR;22;35;17;cm;sap/ui/demo/mock/images/HT-1070.jpg
+HT-1071;GC;Gladiator MX;Gladiator XLN: PCI-E GDDR5 3072MB DVI Out, TV Out low-noise;Ultrasonic United;0.3;KG;81.7;A;EUR;22;35;17;cm;sap/ui/demo/mock/images/HT-1071.jpg
+HT-1072;GC;Hurricane GX;Hurricane GX: PCI-E 691 GFLOPS game-optimized;Ultrasonic United;0.4;KG;101.2;A;EUR;22;35;17;cm;sap/ui/demo/mock/images/HT-1072.jpg
+HT-1073;GC;Hurricane GX/LN;Hurricane GX/LN: PCI-E 691 GFLOPS game-optimized, low-noise.;Smartcards;0.4;KG;139.99;A;EUR;22;35;17;cm;sap/ui/demo/mock/images/HT-1073.jpg
+HT-1080;SC;Photo Scan;Flatbed scanner - 9.600 × 9.600 dpi - 216 x 297 mm - Hi-Speed USB - Bluetooth;Printer for All;2.3;KG;129;A;EUR;34;48;5;cm;sap/ui/demo/mock/images/HT-1080.jpg
+HT-1081;SC;Power Scan;Flatbed scanner - 9.600 × 9.600 dpi - 216 x 297 mm - SCSI for backward compatibility;Printer for All;2.4;KG;89;A;EUR;31;43;7;cm;sap/ui/demo/mock/images/HT-1081.jpg
+HT-1082;SC;Jet Scan Professional;Flatbed scanner - Letter - 2400 dpi x 2400 dpi - 216 x 297 mm - add-on module;Printer for All;3.2;KG;169;A;EUR;33;41;12;cm;sap/ui/demo/mock/images/HT-1082.jpg
+HT-1083;SC;Jet Scan Professional;Flatbed scanner - A4 - 2400 dpi x 2400 dpi - 216 x 297 mm - add-on module;Printer for All;3.2;KG;189;A;EUR;35;40;10;cm;sap/ui/demo/mock/images/HT-1083.jpg
+HT-1085;PR;Copymaster;Copymaster;Alpha Printers;23.2;KG;1499;A;EUR;45;42;22;cm;sap/ui/demo/mock/images/HT-1085.jpg
+HT-1090;SP;Surround Sound;PC multimedia speakers - 5 Watt (Total);Speaker Experts;3;KG;39;A;EUR;12;10;16;cm;sap/ui/demo/mock/images/HT-1090.jpg
+HT-1091;SP;Blaster Extreme;PC multimedia speakers - 10 Watt (Total) - 2-way;Speaker Experts;1.4;KG;26;A;EUR;13;11;17.5;cm;sap/ui/demo/mock/images/HT-1091.jpg
+HT-1092;SP;Sound Booster;PC multimedia speakers - optimized for Blutooth/A2DP;Speaker Experts;2.1;KG;45;A;EUR;12.4;10.4;18.1;cm;sap/ui/demo/mock/images/HT-1092.jpg
+HT-1100;SW;Smart Office;Complete package, 1 User, Office Applications (word processing, spreadsheet, presentations);Technocom;1.2;KG;89.9;D;EUR;15;6.5;2.1;cm;sap/ui/demo/mock/images/HT-1100.jpg
+HT-1101;SW;Smart Design;Complete package, 1 User, Image editing, processing;Technocom;0.8;KG;79.9;O;EUR;14;6.7;24;cm;sap/ui/demo/mock/images/HT-1101.jpg
+HT-1102;SW;Smart Network;Complete package, 1 User, Network Software Utilities, Useful Applications and Documentation;Technocom;0.8;KG;69;A;EUR;16;6;27;cm;sap/ui/demo/mock/images/HT-1102.jpg
+HT-1103;SW;Smart Multimedia;Complete package, 1 User, different Multimedia applications, playing music, watching DVDs, only with this Smart package;Technocom;0.8;KG;77;A;EUR;11;3.4;22;cm;sap/ui/demo/mock/images/HT-1103.jpg
+HT-1104;SW;Smart Games;Complete package, 1 User, various games for amusement, logic, action, jump&run;Technocom;1.1;KG;55;O;EUR;10;3;30;cm;sap/ui/demo/mock/images/HT-1104.jpg
+HT-1105;SW;Smart Internet Antivirus;Complete package, 1 User, highly recommended for internet users as anti-virus protection;Brainsoft;0.7;KG;29;A;EUR;16;4;21;cm;sap/ui/demo/mock/images/HT-1105.jpg
+HT-1106;SW;Smart Firewall;Complete package, 1 User, recommended for internet users, protect your PC against cyber-crime;Brainsoft;0.9;KG;34;A;EUR;17.9;4.2;23.1;cm;sap/ui/demo/mock/images/HT-1106.jpg
+HT-1107;SW;Smart Money;Complete package, 1 User, bring your money in your mind, see what you have and what you want;Brainsoft;0.5;KG;29.9;D;EUR;12;1.5;19;cm;sap/ui/demo/mock/images/HT-1107.jpg
+HT-1110;CSA;PC Lock;Robust 3m anti-burglary protection for your laptop computer;Red Point Stores;0.03;KG;8.9;A;EUR;20;8;4.3;cm;sap/ui/demo/mock/images/HT-1110.jpg
+HT-1111;CSA;Notebook Lock;Robust 1m anti-burglary protection for your desktop computer;Red Point Stores;0.02;KG;6.9;A;EUR;31;9;7;cm;sap/ui/demo/mock/images/HT-1111.jpg
+HT-1112;CSA;Web cam reality;Color webcam, color, High-Speed USB;Red Point Stores;0.075;KG;39;A;EUR;9;8.2;1.3;cm;sap/ui/demo/mock/images/HT-1112.jpg
+HT-1113;CSA;Screen clean;10 separately packed screen wipes;Red Point Stores;0.05;KG;2.3;A;EUR;2;2;0.1;cm;sap/ui/demo/mock/images/HT-1113.jpg
+HT-1114;CSA;Fabric bag professional;Notebook bag, plenty of room for stationery and writing materials;Red Point Stores;1.8;KG;31;A;EUR;42;32;7;cm;sap/ui/demo/mock/images/HT-1114.jpg
+HT-1115;TC;Wireless DSL Router;Wireless DSL Router (available in blue, black and silver);Red Point Stores;0.45;KG;49;O;EUR;19.3;18;5;cm;sap/ui/demo/mock/images/HT-1115.jpg
+HT-1116;TC;Wireless DSL Router / Repeater;Wireless DSL Router / Repeater (available in blue, black and silver);Red Point Stores;0.45;KG;59;A;EUR;19.3;18;5;cm;sap/ui/demo/mock/images/HT-1116.jpg
+HT-1117;TC;Wireless DSL Router / Repeater and Print Server;Wireless DSL Router / Repeater and Print Server (available in blue, black and silver);Technocom;0.45;KG;69;O;EUR;19.3;18;5;cm;sap/ui/demo/mock/images/HT-1117.jpg
+HT-1118;CSA;USB Stick;USB 2.0 High-Speed 64 GB;Technocom;0.015;KG;35;A;EUR;1.5;8.7;1.2;cm;sap/ui/demo/mock/images/HT-1118.jpg
+HT-1120;KB;Cordless Bluetooth Keyboard english international;Cordless Bluetooth Keyboard with English keys;Technocom;1;KG;29;A;EUR;51.4;23;4;cm;sap/ui/demo/mock/images/HT-1120.jpg
+HT-1137;FS;Flat XXL;Optimum Hi-Resolution max. 2048 × 1536 @ 85Hz, Dot Pitch: 0.24mm;Technocom;18;KG;1430;A;EUR;54;22;38;cm;sap/ui/demo/mock/images/HT-1137.jpg
+HT-1138;MI;Pocket Mouse;Portable pocket Mouse with retracting cord;Technocom;0.02;KG;23;A;EUR;0.3;0.5;1;cm;sap/ui/demo/mock/images/HT-1138.jpg
+HT-1210;DC;PC Power Station;PC Power Station with 3,4 Ghz quad-core, 32 GB DDR3 SDRAM, feels like a PC, Windows 8 Pro;Technocom;2.3;KG;2399;A;EUR;28;31;43;cm;sap/ui/demo/mock/images/HT-1210.jpg
+HT-1500;SV;Server Basic;Dual socket, quad-core processing server with 1333 MHz Front Side Bus with 10Gb connectivity;Technocom;18;KG;5000;A;EUR;34;35;23;cm;sap/ui/demo/mock/images/HT-1500.jpg
+HT-1501;SV;Server Professional;Dual socket, quad-core processing server with 1644 MHz Front Side Bus with 10Gb connectivity;Technocom;25;KG;15000;O;EUR;29;30;27;cm;sap/ui/demo/mock/images/HT-1501.jpg
+HT-1502;SV;Server Power Pro;Dual socket, quad-core processing server with 1644 MHz Front Side Bus with 100Gb connectivity;Technocom;35;KG;25000;A;EUR;22;27.3;37;cm;sap/ui/demo/mock/images/HT-1502.jpg
+HT-6130;FST;Flat Watch HD32;32-inch, 1366x768 Pixel, 16:9, HDTV ready;Very Best Screens;2.6;KG;1459;A;EUR;78;22.1;55;cm;sap/ui/demo/mock/images/HT-6130.jpg
+HT-6131;FST;Flat Watch HD37;37-inch, 1366x768 Pixel, 16:9, HDTV ready;Very Best Screens;2.2;KG;1199;A;EUR;99.1;26;61;cm;sap/ui/demo/mock/images/HT-6131.jpg
+HT-6132;FST;Flat Watch HD41;41-inch, 1366x768 Pixel, 16:9, HDTV ready;Very Best Screens;1.8;KG;899;A;EUR;128;23;79.1;cm;sap/ui/demo/mock/images/HT-6132.jpg
+HT-7030;AC;Platinberry;Our new multifunctional Handheld with phone function in platinum;Fasttech;0.5;KG;549;D;EUR;8.1;13;12.1;cm;sap/ui/demo/mock/images/HT-7030.jpg
+HT-7020;AC;Goldberry;Our new multifunctional Handheld with phone function in gold;Fasttech;0.5;KG;549;A;EUR;8.1;13;12.1;cm;sap/ui/demo/mock/images/HT-7020.jpg
+HT-7010;AC;Silverberry;Our new multifunctional Handheld with phone function in silver;Fasttech;0.5;KG;549;A;EUR;8.1;13;12.1;cm;sap/ui/demo/mock/images/HT-7010.jpg
+HT-7000;AC;Copperberry;Our new multifunctional Handheld with phone function in copper;Fasttech;0.5;KG;549;A;EUR;8.1;13;12.1;cm;sap/ui/demo/mock/images/HT-7000.jpg
+HT-1095;AC;Lovely Sound 5.1 Wireless;5.1 Headset, 40 Hz-20 kHz, Wireless;Fasttech;80;G;49;A;EUR;24;19;23;cm;sap/ui/demo/mock/images/HT-1095.jpg
+HT-1096;AC;Lovely Sound 5.1;5.1 Headset, 40 Hz-20 kHz, 3m cable;Fasttech;130;G;39;A;EUR;25;17;19;cm;sap/ui/demo/mock/images/HT-1096.jpg
+HT-1097;AC;Lovely Sound Stereo;5.1 Headset, 40 Hz-20 kHz, 1m cable;Fasttech;60;G;29;A;EUR;21.3;2.4;19.7;cm;sap/ui/demo/mock/images/HT-1097.jpg
+HT-6123;AC;Power Pro Player 80;MP3-Player with 80 GB SSD and Color Display, can play movies;Fasttech;267;G;299;A;EUR;4;6;0.8;cm;sap/ui/demo/mock/images/HT-6123.jpg
+HT-6122;AC;Power Pro Player 40;MP3-Player with 40 GB HDD and Color Display, can play movies;Fasttech;266;G;167;A;EUR;5.1;8;9.2;cm;sap/ui/demo/mock/images/HT-6122.jpg
+HT-6121;AC;ITelo Jog-Mate;ITelo Jog-Mate 64 GB HDD and Color Display, can play movies;Fasttech;134;G;63;A;EUR;5.1;8;9.2;cm;sap/ui/demo/mock/images/HT-6121.jpg
+HT-6120;AC;ITelo MusicStick;64 GB USB Music-on-a-Stick;Fasttech;134;G;45;A;EUR;1.5;6;1;cm;sap/ui/demo/mock/images/HT-6120.jpg
+HT-6111;AC;Record Movie;160 GB HDD, CD-RW, DVD+R/RW, DVD-R/RW, MPEG 2 (Video-DVD), MPEG 4, VCD, SVCD, DivX, Xvid;Fasttech;3.1;KG;288;O;EUR;38;26;6.2;cm;sap/ui/demo/mock/images/HT-6111.jpg
+HT-6110;AC;Play Movie;CD-RW, DVD+R/RW, DVD-R/RW, MPEG 2 (Video-DVD), MPEG 4, VCD, SVCD, DivX, Xvid;Fasttech;2.4;KG;130;O;EUR;37;24;6;cm;sap/ui/demo/mock/images/HT-6110.jpg
+HT-6102;AC;Beam Breaker B-3;1080p, DLP max. 12,3 Meter, 3D-ready;Technocom;2.5;KG;889;A;EUR;30.4;23.1;23;cm;sap/ui/demo/mock/images/HT-6102.jpg
+HT-6101;AC;Beam Breaker B-2;1080p, DLP max.9,34 Meter, 2D-ready;Technocom;2;KG;679;A;EUR;30.4;23.1;23;cm;sap/ui/demo/mock/images/HT-6101.jpg
+HT-2002;AC;Portable DVD Player with 9" LCD Monitor;9" LCD Screen, storage holds up to 8 hours, 2 speakers included;Technocom;0.72;KG;853.99;D;EUR;21;16.5;14;cm;sap/ui/demo/mock/images/HT-2002.jpg
+HT-6100;AC;Beam Breaker B-1;720p, DLP Projector max. 8,45 Meter, 2D;Titanium;1.7;KG;469;O;EUR;30.4;23.1;23;cm;sap/ui/demo/mock/images/HT-6100.jpg
+HT-2027;AC;Removable CD/DVD Laser Labels;Removable jewel case labels, zero residues (100);Titanium;0.15;KG;8.99;A;EUR;5.5;2;2;cm;sap/ui/demo/mock/images/HT-2027.jpg
+HT-2026;AC;Audio/Video Cable Kit - 4m;Quality cables for notebooks and projectors;Titanium;0.2;KG;29.99;D;EUR;21;10.2;13;cm;sap/ui/demo/mock/images/HT-2026.jpg
+HT-2025;AC;CD/DVD case: 264 sleeves;Organizer and protective case for 264 CDs and DVDs;Titanium;0.65;KG;44.99;A;EUR;13;13;20;cm;sap/ui/demo/mock/images/HT-2025.jpg
+HT-2001;AC;10" Portable DVD player;10" LCD Screen, storage battery holds up to 8 hours;Titanium;0.84;KG;449.99;A;EUR;24;19.5;29;cm;sap/ui/demo/mock/images/HT-2001.jpg
+HT-2000;AC;7" Widescreen Portable DVD Player w MP3;7" LCD Screen, storage battery holds up to 6 hours!;Titanium;0.79;KG;249.99;O;EUR;21.4;19;27.6;cm;sap/ui/demo/mock/images/HT-2000.jpg
+HT-1603;DC;Gaming Monster Pro;3,4 Ghz quad core, 16 GB DDR3 SDRAM, 4000 GB Hard Disc, Graphic Card: Hurricane GX, Windows 8;Titanium;6.8;KG;1700;A;EUR;27;28;42;cm;sap/ui/demo/mock/images/HT-1603.jpg
+HT-1602;DC;Gaming Monster;3,4 Ghz quad core, 8 GB DDR3 SDRAM, 2000 GB Hard Disc, Graphic Card: Gladiator MX, Windows 8;Titanium;5.9;KG;1200;A;EUR;26.5;34;47;cm;sap/ui/demo/mock/images/HT-1602.jpg
+HT-1601;DC;Family PC Pro;2,8 Ghz dual core, 4 GB DDR3 SDRAM, 1000 GB Hard Disc, Graphic Card: Gladiator MX, Windows 8;Titanium;5.3;KG;900;A;EUR;25;31.7;40.2;cm;sap/ui/demo/mock/images/HT-1601.jpg
+HT-1600;DC;Family PC Basic;2,8 Ghz dual core, 4 GB DDR3 SDRAM, 500 GB Hard Disc, Graphic Card: Proctra X, Windows 8;Titanium;4.8;KG;600;O;EUR;21.4;29;38;cm;sap/ui/demo/mock/images/HT-1600.jpg
+HT-1119;AC;Travel Adapter;Universal Travel Adapter;Titanium;88;G;79;A;EUR;2;3.1;3.9;cm;sap/ui/demo/mock/images/HT-1119.jpg
+HT-8000;LT;ITelO FlexTop I4000;Notebook with 2,80 GHz dual core, 4 GB DDR3 SDRAM, 500 GB Hard Disc, Windows 8;Titanium;4;KG;799;A;EUR;31;19;3.1;cm;sap/ui/demo/mock/images/HT-8000.jpg
+HT-8001;LT;ITelO FlexTop I6300c;Notebook with 2,80 GHz dual core, 8 GB DDR3 SDRAM, 500 GB Hard Disc, Windows 8;Titanium;4.2;KG;799;A;EUR;32;20;3.4;cm;sap/ui/demo/mock/images/HT-8001.jpg
+HT-8002;LT;ITelO FlexTop I9100;Notebook with 2,80 GHz quad core, 4 GB DDR3 SDRAM, 1000 GB Hard Disc, Windows 8;Titanium;3.5;KG;1199;A;EUR;38;21;4.1;cm;sap/ui/demo/mock/images/HT-8002.jpg
+HT-8003;LT;ITelO FlexTop I9800;Notebook with 2,80 GHz quad core, 8 GB DDR3 SDRAM, 1000 GB Hard Disc, Windows 8;Titanium;3.8;KG;1388;A;EUR;48;31;4.5;cm;sap/ui/demo/mock/images/HT-8003.jpg
+PF-1000;AC;Flyer;Flyer for our product palette;Titanium;0.01;KG;0;A;EUR;46;30;3;cm;sap/ui/demo/mock/images/PF-1000.jpg
+HT-9999;ST;Maxi Tablet;10.1-inch Multitouch HD Screen (1280 x 800), 16GB Internal Memory, Wireless N Wi-Fi; Bluetooth, GPS Enabled, 1GHz Dual-Core Processor;Titanium;3.8;KG;749;A;EUR;48;31;4.5;cm;sap/ui/demo/mock/images/HT-9999.jpg
+HT-9998;ST;Smartphone Beta;5 Megapixel Camera, Wi-Fi 802.11 b/g/n, Bluetooth, GPS A-GPS support;Titanium;0.75;KG;699;A;EUR;48;31;4.5;cm;sap/ui/demo/mock/images/HT-9998.jpg
+HT-9997;ST;e-Book Reader ReadMe;6-Inch E Ink Screen, Access To e-book Store, Adjustable Font Styles and Sizes, Stores Up To 1,000 Books;Titanium;3.8;KG;633;A;EUR;48;31;4.5;cm;sap/ui/demo/mock/images/HT-9997.jpg
+HT-9996;AC;Tablet Pouch;Stylish tablet pouch, protects from scratches, color: black;Titanium;0.03;KG;20;A;EUR;25;40;4.5;cm;sap/ui/demo/mock/images/HT-9996.jpg
+HT-9995;AC;Smartphone Cover;Durable high quality plastic bump-sleeve, lightweight, protects from scratches, rubber coating, multiple colors available, Accurate design and cut-outs for your device, snap-on design;Titanium;0.02;KG;15;A;EUR;48;31;4.5;cm;sap/ui/demo/mock/images/HT-9995.jpg
+HT-9994;AC;Camcorder View;1920x1080 Full HD, image stabilization reduces blur, 27x Optical / 32x Extended Zoom, wide angle Lens, 2.7" wide LCD display;Ultrasonic United;3.8;KG;1388;A;EUR;48;31;27;cm;sap/ui/demo/mock/images/HT-9994.jpg
+HT-9993;ST;Mini Tablet;7 inch 1280x800 HD display (216 ppi), Quad-core processor, 16 GB internal storage, 4325 mAh battery (Up to 8 hours of active use);Ultrasonic United;3.8;KG;833;A;EUR;48;31;4.5;cm;sap/ui/demo/mock/images/HT-9993.jpg
+HT-9992;ST;Smartphone Alpha;7 inch 1280x800 HD display (216 ppi), Quad-core processor, 16 GB internal storage (actual formatted capacity will be less), 4325 mAh battery (Up to 8 hours of active use), white or black;Ultrasonic United;0.75;KG;599;A;EUR;48;31;4.5;cm;sap/ui/demo/mock/images/HT-9992.jpg
+HT-9991;AC;Smartphone Leather Case;Button Clasp, Quality Material, 100% Leather, compatible with many smartphone models;Ultrasonic United;0.02;KG;25;A;EUR;48;31;4.5;cm;sap/ui/demo/mock/images/HT-9991.jpg
+HT-1251;LT;Astro Laptop 1516;Flexible Laptop with 2,5 GHz Quad Core, 15" HD TN, 16 GB DDR SDRAM, 256 GB SSD, Windows 10 Pro;Ultrasonic United;4.2;KG;989;A;EUR;30;18;3;cm;sap/ui/demo/mock/images/HT-1251.jpg
+HT-1252;ST;Astro Phone 6;6 inch 1280x800 HD display (216 ppi), Quad-core processor, 8 GB internal storage (actual formatted capacity will be less), 3050 mAh battery (Up to 8 hours of active use), grey or black;Ultrasonic United;0.75;KG;649;A;EUR;8;6;1.5;cm;sap/ui/demo/mock/images/HT-1252.jpg
+HT-1253;LT;Benda Laptop 1408;Flexible Laptop with 2,5 GHz Dual Core, 14" HD+ TN, 8 GB DDR SDRAM, 324 GB SSD, Windows 10 Pro;Ultrasonic United;4.2;KG;976;A;EUR;30;18;3;cm;sap/ui/demo/mock/images/HT-1253.jpg
+HT-1254;FS;Bending Screen 21HD;Optimum Hi-Resolution Widescreen max. 1920 x 1080 @ 85Hz, Dot Pitch: 0.27mm, HDMI, D-Sub;Ultrasonic United;15;KG;250;A;EUR;37;12;36;cm;sap/ui/demo/mock/images/HT-1254.jpg
+HT-1255;FS;Broad Screen 22HD;Optimum Hi-Resolution Widescreen max. 2048 x 1080 @ 85Hz, Dot Pitch: 0.27mm, HDMI, D-Sub;Ultrasonic United;16;KG;270;O;EUR;39;12;38;cm;sap/ui/demo/mock/images/HT-1255.jpg
+HT-1256;ST;Cerdik Phone 7;7 inch 1280x800 HD display (216 ppi), Quad-core processor, 16 GB internal storage (actual formatted capacity will be less), 4325 mAh battery (Up to 8 hours of active use), white or black;Ultrasonic United;0.75;KG;549;A;EUR;9;15;1.5;cm;sap/ui/demo/mock/images/HT-1256.jpg
+HT-1257;ST;Cepat Tablet 10.5;10.5-inch Multitouch HD Screen (1280 x 800), 16GB Internal Memory, Wireless N Wi-Fi; Bluetooth, GPS Enabled, 1GHz Dual-Core Processor;Ultrasonic United;2.8;KG;549;A;EUR;48;31;4.5;cm;sap/ui/demo/mock/images/HT-1257.jpg
+HT-1258;ST;Cepat Tablet 8;8-inch Multitouch HD Screen (2000 x 1500) 32GB Internal Memory, Wireless N Wi-Fi, Bluetooth, GPS Enabled, 1.5 GHz Quad-Core Processor;Ultrasonic United;2.5;KG;529;A;EUR;38;21;3.5;cm;sap/ui/demo/mock/images/HT-1258.jpg
