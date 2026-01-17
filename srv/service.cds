@@ -1,6 +1,6 @@
-using djp.developer as db from '../db/schema';
+using { djp.developer as db } from '../db/schema';
 
-service Service {
+service Service @(path:'/shop_cart') {
 
     @readonly
     entity Products          as projection on db.Product;
