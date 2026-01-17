@@ -45,10 +45,6 @@ resources:
       config:
         xsappname: shopping-cart-${org}-${space}
         tenant-mode: dedicated
-        oauth2-configuration:
-          credential-types:
-            - "binding-secret"
-            - "x509"
   - name: shopping-cart-db
     type: com.sap.xs.hdi-container
     parameters:
